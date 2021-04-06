@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\bin\Debug\netcoreapp3.1\StudentDO.deps.json
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\bin\Debug\netcoreapp3.1\StudentDO.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\bin\Debug\netcoreapp3.1\StudentDO.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\bin\Debug\netcoreapp3.1\StudentEntities.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\bin\Debug\netcoreapp3.1\StudentEntities.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.csproj.CopyComplete
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentDO\obj\Debug\netcoreapp3.1\StudentDO.pdb

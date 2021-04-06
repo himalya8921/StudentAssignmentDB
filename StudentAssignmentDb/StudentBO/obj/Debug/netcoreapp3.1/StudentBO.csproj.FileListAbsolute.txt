@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentBO.deps.json
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentBO.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentBO.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentDO.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentEntities.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentDO.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\bin\Debug\netcoreapp3.1\StudentEntities.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.csproj.CopyComplete
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentBO\obj\Debug\netcoreapp3.1\StudentBO.pdb

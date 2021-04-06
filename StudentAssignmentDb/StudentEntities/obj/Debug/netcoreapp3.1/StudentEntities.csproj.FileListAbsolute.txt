@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\bin\Debug\netcoreapp3.1\StudentEntities.deps.json
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\bin\Debug\netcoreapp3.1\StudentEntities.runtimeconfig.json
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\bin\Debug\netcoreapp3.1\StudentEntities.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\bin\Debug\netcoreapp3.1\StudentEntities.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\bin\Debug\netcoreapp3.1\StudentEntities.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.dll
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.pdb
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.genruntimeconfig.cache
+C:\Users\HP\source\repos\StudentAssignmentDb\StudentEntities\obj\Debug\netcoreapp3.1\StudentEntities.csprojAssemblyReference.cache

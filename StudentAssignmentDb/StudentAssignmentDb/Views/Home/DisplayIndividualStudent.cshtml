@@ -1,0 +1,66 @@
+﻿@model StudentEntities.CustomEntities.StudentModel
+
+@{
+    ViewData["Title"] = "DisplayIndividualStudent";
+}
+
+<h1>DisplayIndividualStudent</h1>
+<p>
+    <a asp-controller="Home" asp-action="Index">Back</a>
+</p>
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudentId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudentId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudentName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudentName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudentCity)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudentCity)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StudentState)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StudentState)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FathersName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FathersName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TeacherName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TeacherName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CollegeName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CollegeName)
+        </dd>
+
+
+    </dl>
+</div>
